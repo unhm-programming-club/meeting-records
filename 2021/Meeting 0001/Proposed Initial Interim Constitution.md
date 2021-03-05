@@ -1,12 +1,12 @@
 Interim Constitution Proposal by Karl Miller
 
-1)	The club will vote on an interim President to serve until an official constitution is created and elections are held in the manner described by the Constitution.
+1)  The club will vote on an interim President to serve until an official constitution is created and elections are held in the manner described by the Constitution.
 
-2)	The President will maintain order in meetings, introduce agenda items, and initiate votes on proposals and agenda items, and maintain access to club accounts.
+2)  The President will maintain order in meetings, introduce agenda items, and initiate votes on proposals and agenda items, and maintain access to club accounts.
 
 3)	The club will vote on an interim Vice President as soon as someone is willing to fill the role.
 
-4)	The interim Vice President will act as President when the President is unable to do so and will collaborate with the President to advance the interests of the club and its members.
+4)	The Vice President will act as President when the President is unable to do so and will collaborate with the President to advance the interests of the club and its members.
 
 5)	Until an official Constitution is created or this one is changed, and a board of directors is elected, everyone attending meetings will be treated as an interim officer of the club and be invested with the power to vote on all club resolutions.
 
@@ -20,7 +20,7 @@ Interim Constitution Proposal by Karl Miller
 
 10)	The President, Vice President, or another appointed by them will maintain a record of votes and discussions conducted in each meeting.
 
-11)	Those votes will be uploaded to the club repository at https://github.com/unhm-programming-club/meeting-records under a subdirectory for the appropriate date, available for viewing by all members.
+11)	Those records will be uploaded to the club repository at https://github.com/unhm-programming-club/meeting-records under a subdirectory for the appropriate date, available for viewing by all members.
 
 12)	The club will endeavor to draft an official constitution and bring it to vote as soon as the UNHM requirements are met and it is feasible.
 
