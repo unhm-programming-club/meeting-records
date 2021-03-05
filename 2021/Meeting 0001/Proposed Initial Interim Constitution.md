@@ -14,13 +14,13 @@ Interim Constitution Proposal by Karl Miller
 
 7)	Interim officers will conduct themselves professionally and with respect towards one another, but shall feel free to express any dissenting opinions and vote however they wish.
 
-8)	This Constitution will be available on Github at https://github.com/unhm-programming-club/charter  
+8)	The ratified Constitution will be available on Github at https://github.com/unhm-programming-club/Constitution 
 
-9)	Changes to the Constitution will be reflected by committing the changes to Github in the usual way, so that past charters and changes are visible to the public. The most recent vote will be noted at the end of the document with the date and number of each vote.
+9)	Changes to the Constitution will be reflected by committing the changes to Github in the usual way, so that past Constitutions and changes are visible to the public. The most recent vote will be noted at the end of the document with the date and number of each vote.
 
 10)	The President, Vice President, or another appointed by them will maintain a record of votes and discussions conducted in each meeting.
 
-11)	Those records will be uploaded to the club repository at https://github.com/unhm-programming-club/meeting-records under a subdirectory for the appropriate date, available for viewing by all members.
+11)	Meeting records will be uploaded to the club repository at https://github.com/unhm-programming-club/meeting-records under a subdirectory for the appropriate date, available for viewing by all members.
 
 12)	The club will endeavor to draft an official constitution and bring it to vote as soon as the UNHM requirements are met and it is feasible.
 

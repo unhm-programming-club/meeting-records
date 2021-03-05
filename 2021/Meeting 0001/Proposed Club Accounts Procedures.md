@@ -8,4 +8,4 @@ To be introduced first meeting
 5)	Meeting notes, agenda items, and votes will be maintained under unhm-programming-club/meeting-records.
 6)	The President, Vice President, or another appointed officer will upload records of votes and agenda items to this repository.
 7)	Team projects will be organized under unhm-programming-team.
-8)	The **unhm-programming-club** account will be reserved for maintaining club documents, charter, membership records and so forth; coding projects will be organized under **unhm-programming-team**.
+8)	The **unhm-programming-club** account will be reserved for maintaining club documents, Constitution, membership records and so forth; coding projects will be organized under **unhm-programming-team**.
