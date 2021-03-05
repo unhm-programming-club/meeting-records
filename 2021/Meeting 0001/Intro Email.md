@@ -36,20 +36,29 @@ https://github.com/unhm-programming-club/meeting-records/tree/master/2021/Meetin
 ## When/Where
 
 I have scheduled the first meeting with Zoom, since it is a technology we are all familiar with from our UNHM classes. I’m setting the date for next Saturday, 3/13, at 12:00 PM. I figure that this date and time is likely to work for most, since there will not be conflicts with UNHM classes. However, some of you may have jobs or other obligations. If this date and time does not work for you, please email me back with your availability and I will look to find another time that works best.
+
 https://unh.zoom.us/j/9070569588
+
 Or Telephone:
+
     Dial: +1 301 715 8592 (US Toll)
     Meeting ID: 907 056 9588 
     International numbers available: https://unh.zoom.us/u/abxaarzD7v 
 
 Or a H.323/SIP room system:
+
     H.323: rc.unh.edu or 162.255.37.11 (US West) or 162.255.36.11 (US East) 
     Meeting ID: 907 056 9588
     SIP: 9070569588@zoomcrc.com
+
+
 Down the line, I think it would be preferable if we could meet occasionally in person, at a coffee shop or on campus, once circumstances and school rules allow.
 
 
-Thanks for taking an interest in this club. I’m very excited to have the opportunity to be part of this myself. I hope you also see the great value in what we can do here. 
+Thanks for taking an interest in this club. I’m very excited to have the opportunity to be part of this. I hope you also see the great value in what we can do here. I know we have some great minds here and I look forward to seeing what we can do together.
+
+Please let me know via email whether you can make the initial meeting.
+
 I look forward to seeing you next Saturday! (unless we have to reschedule)
 
 Sincerely,
