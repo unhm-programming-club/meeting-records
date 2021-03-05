@@ -1,14 +1,14 @@
 Hello everyone! Thank you for your interest in the UNHM Programming club.
 
-Right now, we are an unofficial organization. The first meeting is to help us define our purpose and to find who is interested in taking on a role in this project. Everyone attending this first meeting will be treated as an interim officer of the club, with the power to vote on all resolutions. This is discussed in more detail under the “Meeting Structure” heading of this email. 
+Right now, we are an unofficial organization. The first meeting is so we can define our purpose and find who is interested in taking on a role in this project. Everyone attending the first meeting will be treated as an interim officer of the club, with the power to vote on all resolutions. This is discussed in more detail under the “Meeting Structure” heading of this email. 
 
 ## Intro / The Pitch
 
 Most schools have a Computer Science or related club. UNHM does not. This needs to change. 
 
-Our degree is worth what we put into it, what we choose to learn, what connections we endeavor to make. We can learn a lot in our classes and from our professors, but there are some important things that are missed. For one, in class, most programming is done solo. But in a professional setting, we will always be working in a group.
+Our degree is worth what we put into it, what we choose to learn, what connections we strive to make. We can learn a lot in our classes and from our professors, but there are some important things that are missed. For one, in class, most programming is done solo. But in a professional setting, we will always be working in a group.
 
-It is to your advantage to build the skills that will help you thrive in the professional world. Foremost among those skills are the ability to work in teams, stay organized, and peer programming. Our degree curriculums are limited in how much time they devote to these important areas. But this club will level up those skills as we collaborate on cool projects. It will help us connect to each other and others in the field. It will expose us to new strategies for approaching software development. It will inform us about events, like hackathons, where we can network with professionals in the field. It will expose us to resources and technologies we can add to our arsenal, and provide us experience in the actual languages and libraries employers are looking for their candidates to be proficient in.
+It is to your advantage to build skills that will help you to land a great job and thrive in the professional world. Foremost among those skills are teamwork, organization, and peer programming. Our degree curriculums are limited in how much time they devote to these important areas. This club will fill those gaps and level up those skills as we collaborate on cool projects. It will help us connect with each other and others in the field. It will expose us to new strategies for approaching software development. It will inform us about events, like hackathons, where we can network with professionals in the field. It will expose us to resources and technologies we can add to our arsenal, and provide us experience in the actual languages and libraries employers are looking for their candidates to be proficient in.
 
 It will provide the opportunity to learn invaluable, employment-ready skills not easily acquired by simply attending classes.
 
@@ -47,18 +47,18 @@ If the vote passes, it will be added to the list of resolutions and we will impl
 At the next meeting, the agenda will include a list of what resolutions passed at the previous meeting
 If you have any agenda items you’d like to add to this meeting, you can email me or bring them up at the end of the meeting, after the other agenda items are dealt with.
 
-For the first meeting, I’ll assume the role of “Interim President” it because someone has to direct things. Among the first agenda items is going to be a resolution as to whether you want to confirm me as interim President. When we go official, we can vote on a slate of directors. If anyone wants to assume the role of Interim Vice President, (or if you think you’d like to tackle the job of being Interim President) you are welcome to say so and we can put that up to a vote too.
+For the first meeting, I’ll assume the role of “Interim President” because someone has to direct things. Among the first agenda items is going to be a resolution as to whether you want to elect me as interim President. By the time we go official, we will elect officers. If anyone wants to assume the role of Interim Vice President, (or if you think you’d like to tackle the job of being Interim President) you are welcome to say so and we can put that up to a vote too.
 
 ## Agenda
 
 The agenda, proposed Interim Constitution and proposed Club Accounts Procedure are viewable at:
 https://github.com/unhm-programming-club/meeting-records/tree/master/2021/Meeting%200001
 
-All meeting agendas will be posted to that github repo (pending ratification of this procedure by the board - you)
+All meeting agendas will be posted to that github repo.
 
 ## When/Where
 
-I have scheduled the first meeting with Zoom, since it is a technology we are all familiar with from our UNHM classes. I don't love Zoom and am very open to using a different technology.
+I have scheduled the first meeting with Zoom, since it is a technology we are all familiar with from our UNHM classes. I don't love Zoom and am open to trying different technologies.
 
 I’m setting the date for next Saturday, 3/13, at 12:00 PM. I figured that this date and time is likely to work for most, since there will not be conflicts with UNHM classes. However, some of you may have jobs or other obligations. If this date and time does not work for you, please email me back with your availability and I will look to find another time that works best for everyone.
 
@@ -79,17 +79,19 @@ Or a H.323/SIP room system:
     SIP: 9070569588@zoomcrc.com
 
 
-Down the line, I think it would be preferable if we could meet occasionally in person, at a coffee shop or on campus, once circumstances and school rules allow.
+Down the line, it would be nice if we could meet occasionally in person, at a coffee shop or on campus, once circumstances and school rules allow.
 
 I also think creating a Discord channel would be a good way for us to communicate asynchronously. 
 
 ## Conclusion
 
-Thanks for taking an interest in this club. I’m very excited to have the opportunity to be part of this. I hope you see the great value in what we can do here. I know we have some great minds among us and I look forward to seeing what we can do together.
+Thanks for taking an interest in this club. I’m excited to have the opportunity to be part of this. I hope you see the great value in what we can do here. I know we have some great minds among us and I look forward to seeing what we build together.
 
 Please let me know via email whether you can make the initial meeting.
 
 I look forward to seeing you next Saturday! (unless we have to reschedule)
+
+
 
 Sincerely,
 
