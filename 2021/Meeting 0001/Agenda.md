@@ -22,4 +22,4 @@ Agenda Meeting 1
 
 A Proposed Mission Statement
 
-- 	The mission of the UNHM Programming Club is to provide its members the opportunity to collaborate on group programming projects, expose members to professional networking opportunities, discuss trends in computer languages and software development, and explore software development strategies.
+- 	The mission of the UNHM Programming Club is to provide its members the opportunity to collaborate on group programming projects, expose professional networking opportunities, discuss trends in computer languages and employment, and explore software development strategies, with the aim of preparing its members to enter the workforce with marketable programming competency.
