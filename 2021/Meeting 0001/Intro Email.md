@@ -24,26 +24,28 @@ But the name of this club is on the first meeting agenda for voting if you disag
 
 ## Meeting Structure
 
-While I’ve never founded a student organization, I’ve sat on the board of directors at a VFW post for many years. So I intend to run this first meeting like we run board of directors meetings every month. Some of you may not have participated in that or any sort of organization before, so I want to explain what that process looks like.
+While I’ve never founded a student organization, I’ve sat on the board of directors at a VFW post for many years. There is a way to conduct things in an orderly manner without being overly formal so as to actually get stuff done. So, I intend to run this first meeting like we run board of directors meetings every month. Some of you may have participated in that sort of organization before, but I want to explain what that process looks like in case you haven't.
 
-We will have an agenda for the first meeting, which is located at the bottom of this email. We will run through the agenda items one by one.
+We will have an agenda for the meeting, which you can find under the **Agenda** section of this email. During the meeting, we will run through the agenda items one by one. Save your input on a given item until we get to that item.
 
 We will vote on each agenda item that calls for it. Everyone at the initial meeting here will be treated as if they’re an officer of the club. You get 1 vote on each item – Yay, Nay, or Abstain.
 
-Down the line, we will have an elected slate of officers who will vote on club resolutions. For this initial, pre-Constitution club, everyone at the first meeting will be an acting officer. 
+Down the line, we will have an elected slate of officers who will vote on club resolutions. For this initial, pre-Constitution club, everyone at the first meeting will be an acting officer and get maximum voting priviledges. 
 
 If you want to propose a resolution, just say “I want to propose that we resolve to….”
 
 Someone else has to “second” your resolution by saying “seconded”.
 
-I’ll say “A resolution to…. Is up for vote”.
+The President will say “A resolution to…. Is up for vote”.
 
-Everyone votes “Aye, Nay, or Abstain”. Since we are going to be remote, it’s best if you type your vote into the chat.
+Everyone votes “Aye, Nay, or Abstain”. Since we are going to be remote, it’s best if you type your vote into the chat as well as saying it.
+
+The President will tally the votes and declare whether the resolution passed or not.
 
 If the vote passes, it will be added to the list of resolutions and we will implement it.
 
 At the next meeting, the agenda will include a list of what resolutions passed at the previous meeting
-If you have any agenda items you’d like to add to the meeting, you can email me or bring them up at the end of the meeting, after the other agenda items are dealt with.
+If you have any agenda items you’d like to add to this meeting, you can email me or bring them up at the end of the meeting, after the other agenda items are dealt with.
 
 For the first meeting, I’ll assume the role of “Interim President” it because someone has to direct things. Among the first agenda items is going to be a resolution as to whether you want to confirm me as interim President. When we go official, we can vote on a slate of directors. If anyone wants to assume the role of Interim Vice President, (or if you think you’d like to tackle the job of being Interim President) you are welcome to say so and we can put that up to a vote too.
 
