@@ -20,7 +20,7 @@ Interim Constitution Proposal by Karl Miller
 
 1. The ratified Constitution will be available on Github at https://github.com/unhm-programming-club/Constitution 
 
-1. Changes to the Constitution will be reflected by committing the changes to Github in the usual way, so that past Constitutions and changes are visible to the public. The most recent vote will be noted at the end of the document with the date and number of each vote.
+1. Changes to the Constitution will be reflected by committing the changes to Github in the usual way, so that past Constitutions and changes are visible. The most recent vote will be noted at the end of the document with the date and number of each vote.
 
 1. The President, Vice President, or another appointed by them will maintain a record of votes and discussions conducted in each meeting.
 
