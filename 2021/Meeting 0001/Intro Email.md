@@ -1,6 +1,8 @@
 Hello everyone! Thank you for your interest in the UNHM Programming club.
 
-Right now, we are an unofficial organization. The first meeting is so we can define our purpose and find who is interested in taking on a role in this project. Everyone attending the first meeting will be treated as an interim officer of the club, with the power to vote on all resolutions. This is discussed in more detail under the “Meeting Structure” heading of this email. 
+Right now, we are an unofficial organization. The first meeting is so we can define our purpose and find who is interested in taking on a role in this project. I have only reached out to a few people from my classes so far. After this meeting, I intend to reach out to faculty contacts and cast a wider net. If you know someone who would be interested, however, feel free to invite them.
+
+Everyone attending the first meeting will be treated as an interim officer of the club, with the power to vote on all resolutions. This is discussed in more detail under the “Meeting Structure” heading of this email.
 
 ## Intro / The Pitch
 
