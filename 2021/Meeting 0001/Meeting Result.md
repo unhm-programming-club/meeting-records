@@ -11,7 +11,7 @@
 - Pitie Amisi, Trustee,
 - Derek Santiago, Trustee
 
-### Resoloved
+### Resolved
 
 - 3-0  That Karl Miller will reach out to faculty contacts to spread news about the club.
 - 3-0 That the club will meet again next Saturday at noon on Zoom

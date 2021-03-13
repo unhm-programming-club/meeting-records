@@ -3,6 +3,7 @@ Club Accounts Procedures Proposal by Karl Miller
 To be introduced first meeting
 
 1. The programming club email will be unhm.programming.club@gmail.com , used primarily for verification of club accounts.
+1. Passwords will be at least 25 characters when possible
 1. The programming club github account will be **unhm-programming-club**.
 1. The President and Vice President will maintain access to this account and transfer control of this account whenever the president and/or vice president changes.
 1. Meeting notes, agenda items, and votes will be maintained under **unhm-programming-club/meeting-records**.
