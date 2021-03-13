@@ -26,11 +26,9 @@
 -	Introductions.
 -	Discuss what members hope to get out of the club.
 -   Discuss and ratify name of the club
--	Discuss and Ratify Interim Constitution, strike or add clauses as necessary.
-    - https://github.com/unhm-programming-club/meeting-records/blob/master/2021/Meeting%200001/Proposed%20Initial%20Interim%20Constitution.md
+-	Discuss and Ratify [Interim Constitution](https://github.com/unhm-programming-club/meeting-records/blob/master/2021/Meeting0001/Proposed-Initial-Interim-Constitution.md), strike or add clauses as necessary.
 -	Vote whether to elect Karl Miller as Interim President.
--	Discuss and Ratify proposed Club Accounts Procedures.
-    - https://github.com/unhm-programming-club/meeting-records/blob/master/2021/Meeting%200001/Proposed%20Club%20Accounts%20Procedures.md
+-	Discuss and Ratify proposed [Club Accounts Procedures](https://github.com/unhm-programming-club/meeting-records/blob/master/2021/Meeting0001/Proposed-Club-Accounts-Procedures.md)
 -	Discuss whether anyone is willing to serve as Vice President and vote on their appointment if so.
 -	If several are willing to contribute, discuss creating other interim officer positions, such as Secretary or Trustee and vote if neccessary. 
 -   Discuss requirements for becoming an official club.

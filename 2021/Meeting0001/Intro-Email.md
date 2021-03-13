@@ -54,7 +54,7 @@ For the first meeting, I’ll assume the role of “Interim President” because
 ## Agenda
 
 The agenda, proposed Interim Constitution and proposed Club Accounts Procedure are viewable at:
-https://github.com/unhm-programming-club/meeting-records/tree/master/2021/Meeting%200001
+https://github.com/unhm-programming-club/meeting-records/blob/master/2021/Meeting0001/Agenda.md
 
 All meeting agendas will be posted to that github repo.
 
