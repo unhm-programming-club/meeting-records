@@ -43,4 +43,3 @@
 - Discuss status of github pages
 - Discuss club activities proposals, group projects, and see if anyone else is interested in getting involved with the discord project, github pages project, or something else
 - Discuss club membership requirements - possible blog post requirement or project contribution requirement
-- 
