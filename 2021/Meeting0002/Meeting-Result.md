@@ -1,7 +1,7 @@
 <h1 align="center" style = "font-family: Source Code Pro, Courier New; text-shadow: 2px 2px 8px green">
             UNHM Programming Club
 </h2>
-<h2 align="center">Meeting 001 - 3/20/2021</h2>
+<h2 align="center">Meeting 002 - 3/20/2021</h2>
 <h3 align="center">Results</h2>
 
 ### Attending
@@ -30,6 +30,8 @@
 - Saturday at noon still seems to be the best meeting time for most.
 - Discussed group projects.
 - Adam Morvant and Bryan Robbins began work on Discord server and Discord bot after the meeting.
+- Discussed blog post membership requirement, seemed generally well received, but no vote taken
+- Discussed code presentation requirement, seemed generally well received, but no vote taken
 - Other things for Karl to bring up in his meeting with a UNH Durham club president next week:
     - group projects
     - their constitution; what works well, what doesn't
@@ -42,4 +44,4 @@
 - Discuss status of club discord and club discord bot
 - Discuss status of github pages
 - Discuss club activities proposals, group projects, and see if anyone else is interested in getting involved with the discord project, github pages project, or something else
-- Discuss club membership requirements - possible blog post requirement or project contribution requirement
+- Discuss club membership requirements - possible blog post requirement or project contribution requirement, code presentation requirement
