@@ -4,7 +4,7 @@
 
 - Karl Miller, President,
 - Adam Morvant, Discord Administrator,
-- Kaitlyn McManus, Secretary,
+- Kaitlin McManus, Secretary,
 - Bryan Robbins, Trustee,
 - Derek Santiago, Trustee
 
