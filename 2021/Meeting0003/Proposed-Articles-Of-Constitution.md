@@ -45,7 +45,7 @@ Small contributions are acceptable for maintaining membership.
 
 1. Members may email officers with issues they desire the board to review and that officer shall bring the issue to the attention of the board.
 
-1. Members may start a new group programming project on the github organization page, promote that project to members of the club, and be vested with control and leadership over the project they started. Projects which will represent the club in an official capacity, such as the website or Discord bot, must have approval of the board and have a board member or member appointed by the board in the leadership role.
+1. Members may start a new group programming project on the github organization page, promote that project to members of the club, and be vested with control and leadership over the project they started. However, one member of the board must approve of the project to ensure it falls within conduct requirements, and the board may vote to cancel a project at the next meeting. Projects will not be cancelled without good reason. Projects which will represent the club in an official capacity, such as the website or Discord bot, shall have a board member or member appointed by the board in the leadership role.
 
 1. Members may join any existing group project with approval from that projects leader. They must take direction from that project's leader and not expect all pull requests to be approved. Team members on a project will be included in discussion about the project.
 
