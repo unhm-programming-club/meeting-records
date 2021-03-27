@@ -28,9 +28,9 @@ _to be proposed at meeting 3_
 **Section 2 - Individual Member Requirements**:
 
 1. Members shall make 1 contribution via git/github to a group project by making a pull request, at least once per semester. Other members will assist new members who do not have experience with git/github. These contributions do not have to be code; they can be content as well. Examples of non programmatic contributions:
- - Create a blog post for the website about your learning journey, or something else you are interested in.
- - Write a guide.
- - Add content to a project that needs content.
+  - Create a blog post for the website about your learning journey, or something else you are interested in.
+  - Write a guide.
+  - Add content to a project that needs content.
 Small contributions are acceptable for maintaining membership.
 
 1. Members shall cast a vote in the yearly elections for officers. Not submitting a vote constitutes abdication of membership. A vote of "Abstain" is a valid vote.

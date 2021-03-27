@@ -26,13 +26,15 @@
 1. Vote whether to Elect Bryan Robbins as Discord Admin
 1. Discuss status of club discord and club discord bot
 1. Discuss status of github pages
-1. Discuss club activities proposals, group projects, and see if anyone else is interested in getting involved with the discord project, github pages project, idea generator project, idea brainstorming repository, or something else.
-1. Discuss result of meeting with President of WCWCS
-1. Interview Professor Mihaela Sabin as candidate for faculty advisor
-1. Discuss benefits and drawbacks of changing the github organization
 1. Discuss club membership requirements
-1. Vote whether to ratify membership requirements
-1. Discuss conduct constitution article proposal
-1. Vote whether to ratify conduct rules in constitution
+1. Vote whether to approve membership requirements
+1. Discuss conduct requirements
+1. Vote whether to approve conduct requirements
+1. Interview Professor Mihaela Sabin as candidate for faculty advisor
+1. Discuss benefits / drawbacks of changing github organization
+1. Discuss result of meeting with President of WCWCS and upcoming meetings
+1. Discuss scope of membership
+1. Discuss club activities proposals, group projects, and see if anyone else is interested in getting involved with the discord project, github pages project, idea generator project, idea brainstorming repository, or something else.
 1. Discuss discord/club accounts procedures proposed additions/changes
 1. Vote whether to ratify Discord/ Club Account procedures additions
+1. Ask about anyone wanting to become Vice President
