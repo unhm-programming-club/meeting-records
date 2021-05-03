@@ -20,9 +20,11 @@
 - A member has the privilege to call an emergency meeting of the membership to address some grievance once per semester. An emergency meeting requires minimum 48 hour notice. The member shall contact a board member with the reason for the emergency meeting and all membership shall be notified. As with all meetings, quorum must be reached for resolutions passed in the emergency meeting to be valid. (5-0)
 - Meetings will be conducted informally, using the spirit Roberts Rules of Order as guidance. However, any attendee of a meeting may request that the meeting follow Roberts Rules of Order strictly, and the chair of the meeting will subsequently implement Roberts Rules. (5-0)
     - link: https://www.boardeffect.com/wp-content/uploads/2020/07/Roberts-Rules-of-Order-Toolkit-Refreshed.pdf
+- This constitution shall be approved by a 2/3rds vote of all members. (5-0)
 
 ### Other Discussions 
 - Dicussed starting to draft the constitution once drafted this constitution shall be approved by a 2/3rds vote of all members    
+- Discussed internships and career prospects.
 - Dicussed status of current projects 
      - Discord
      - Chkpi
@@ -32,3 +34,4 @@
      - Conway's    
 - Discussed possible new projects
     - https://github.com/unhm-programming-team/project-ideas
+-Discussed the 'seed of a project idea' mentioned by Vice President Davis Moore - something using the Canvas API to, for example, tell students the next 3 assignments are due or provide different grade estimates.
