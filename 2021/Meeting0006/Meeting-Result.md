@@ -6,8 +6,8 @@
 - Davis Moore, Vice President
 - Adam Morvant, Discord Administrator 
 - Bryan Robbins, Discord Administrator
-- Kaitlin McManus, Secratary 
-- Derek Satiago, Trustee
+- Kaitlin McManus, Secretary 
+- Derek Santiago, Trustee
 - Anthony Clark, Trustee
 - Vaishnavi Dade, Trustee
 
@@ -32,15 +32,15 @@ Members may vote 'no confidence'. If a plurality of votes are for no confidence,
 
 ### Other Discussions 
 
-- Roberts rules of order in the consitution repository defines specific parliamentary procedures
+- Roberts rules of order in the constitution repository defines specific parliamentary procedures
     - link: https://robertsrules.org/introduction.php
-- Dicussed status of current projects 
+- Discussed status of current projects 
      - Discord
      - Chkpi
      - Vignere Cipher
      - Physics Sim
      - Website
      - Conway's    
-- Discussed working on documetation for projects 
+- Discussed working on documentation for projects 
 - Possible new project ideas 
 - Discussed hosting solutions 

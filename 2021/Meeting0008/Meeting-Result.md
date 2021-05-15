@@ -4,14 +4,14 @@
 ### Attending
 - Karl Miller, President
 - Bryan Robbins, Discord Administrator
-- Kaitlin McManus, Secratary 
+- Kaitlin McManus, Secretary 
 - Anthony Clark, Quartermaster
 - Derek Santiago, Treasurer 
 
 ### Resolved 
 - Derek Santiago shall be the first treasurer of the Programming Club (5-0)
 - Future meetings shall be held at 3:00 PM on Saturday (5-0)
-- The following topics regarding membership in the consitution: 
+- The following topics regarding membership in the Constitution: 
     1. To become a member, prospective members will contact a club officer. Contact information can be  found at https://unhm-programming-club.github.io/ .
     2. No prior Programming experience is required.
     3. All members will create a Github account and join the club organization, which is named in the Club Accounts Procedures.
@@ -20,7 +20,7 @@
 - Members shall make 1 contribution via git/github to a group project by making a pull request, at least once per semester. It is recommended that members request help on the help channel of the Discord because it is tricky doing a first pull request. These contributions do not have to be code; they can be simple content as well. The purpose is to ensure everyone understands how to use GitHub to contribute to a shared repository. (5-0)
 - Members will cast a vote in the yearly officer elections. They may vote to 'abstain' or vote 'no confidence' (5-0)
 - Members may propose a resolution at any club meeting, in a manner appropriate to the meeting's rules of order. (5-0)
-- The following topics regarding memebership in the constitution:
+- The following topics regarding membership in the constitution:
     1. If a member does not meet individual member requirements by the end of the semester, they will be automatically removed from the list of members. They are permitted to re-join and try again.
     2.  If a member violates a section of the conduct requirements that involves targeting another individual member, such as sexual harassment, political harassment, or bullying, they may be unilaterally removed by agreement of the club president and vice president, but those officers must validate the circumstances first.
     3.  If a member is believed to have violated another section of the conduct requirements, the board will consider the evidence and vote by majority whether to remove them. The evidence must show that the member violated a conduct requirement. (5-0)
@@ -50,5 +50,5 @@
      - Conway's    
 - Discussed possible new projects
     - https://github.com/unhm-programming-team/project-ideas
-- The consitution thus far:       
+- The constitution thus far:       
     - https://github.com/unhm-programming-team/constitution/blob/main/Draft-with-Voting-Records.md 

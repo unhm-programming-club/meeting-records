@@ -5,7 +5,7 @@
 - Karl Miller, President
 - Davis Moore, Vice President 
 - Bryan Robbins, Discord Administrator
-- Kaitlin McManus, Secratary 
+- Kaitlin McManus, Secretary 
 - Anthony Clark, Quartermaster
 
 ### Resolved 
@@ -23,9 +23,9 @@
 - This constitution shall be approved by a 2/3rds vote of all members. (5-0)
 
 ### Other Discussions 
-- Dicussed starting to draft the constitution once drafted this constitution shall be approved by a 2/3rds vote of all members    
+- Discussed starting to draft the constitution once drafted this constitution shall be approved by a 2/3rds vote of all members    
 - Discussed internships and career prospects.
-- Dicussed status of current projects 
+- Discussed status of current projects 
      - Discord
      - Chkpi
      - Vignere Cipher

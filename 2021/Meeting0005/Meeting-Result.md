@@ -5,14 +5,14 @@
 - Karl Miller, President
 - Adam Morvant, Discord Administrator 
 - Bryan Robbins, Discord Administrator
-- Kaitlin McManus, Secratary 
+- Kaitlin McManus, Secretary 
 - Derek Satiago, Trustee
 - Anthony Clark, Trustee
 
 ### Resolved 
 
 - Elected Miheala Sabin as faculty advisor (6-0)
-    - Miheala Sabin as faculty advisor was endorsed by Professor Shallow
+    - Mihaela Sabin as faculty advisor was endorsed by Professor Shallow
 
 ### Other Discussions 
 
@@ -33,7 +33,7 @@
 	- interested parties will submit "options" to the draft which will later be voted on and discussed
 - Having all member meetings every other week and board meetings on off weeks
 - Pull requests: membership requirement 
-    - creating a new repositiory and commiting does not count towards request
+    - creating a new repository and committing does not count towards request
 - Discord open to faculty and they can contribute to projects 
 - Discussed faculties and memberships rights     
 - Discussed having a member database 
