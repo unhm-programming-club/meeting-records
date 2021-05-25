@@ -1,0 +1,21 @@
+### Agenda Meeting0011
+
+- Intros if new attendees
+- Vote on authorizing summer faculty-led web project
+  - Ideas for that project
+  - Creating a discord channel for that project
+  - Next steps
+- Discuss creating a discord channel for faculty + board communications
+- Next meeting time
+- Karl's June road trip - meetings will have to be postponed or chaired by another board member
+- Ongoing projects
+  - Discord pot
+  - Game of Life
+  - Minecraft idea Bryan mentioned?
+  - Documentation
+- Ideas for spicing up website
+  - Matter.js project - a cool game. Maybe toss the python physics simulator and making something using the already mature Matter.js library
+- Server project
+- How classes / finals have gone for attendees
+- Interesting articles / programming topics anyone has encountered recently
+- Summer plans
