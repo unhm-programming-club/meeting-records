@@ -9,7 +9,7 @@
 - Anthony Clark, Quartermaster,
 - Bryan Robbins, Discord Administrator,
 - Kaitlin McManus, Secretary,
-- Tony, Member
+- Tony Pion, Member
 
 ### Resolved
 
@@ -17,7 +17,6 @@
 
 - (7-0) Amended the Constitution of the Programming Club to allow for asynchronous voting:
 > Constitutional Amendment: Article V section 1: Meeting attendees may elect to put an important matter to an asynchronous vote of the club or board on the Discord, if quorum cannot be met or if it is felt that said matter should be put to asynchronous vote. Before the next scheduled meeting, members may vote, and if the total number of members exceed quorum and the measure passes, it will be considered passed as though those members attended the meeting.”
-!hostvote "Should we amend the constitution as to the above language?
 
 - (7-0) Approved Professor Shallow faculty-led project - web app
 - (7-0) Voted that the club will not inquire into members vaccination status for the meet-and-greet or other purposes. When we are inviting members to said meet-and-greet, we will let them know to assume some members are and some members are not vaccinated. 
