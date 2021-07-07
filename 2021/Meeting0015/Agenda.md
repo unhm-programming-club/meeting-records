@@ -4,6 +4,7 @@
 - June meetings recap
 - Meet and Greet Date / Location Setting
 - Web App next steps 
+- Discord Bot Down - Find New Hosting
 - Ongoing projects
 - New project ideas
 - Pull Request engagement
