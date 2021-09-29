@@ -1,4 +1,4 @@
-### Meeting0022
+### Meeting0023
 ### 9/25/2021
 
 ### Attending
@@ -36,15 +36,7 @@
 	- Karl created a javascript app for converting freeplane .XML exports into collapsable DOM elements 
 - New Projects
 	- Davis moved the Java 11 game to the team repository. 
-	- Karl thinks we should consider making a game in Phaser 
-	
-	
-	
-- Discussed results of the club fair 
-- Due to not having quorum, or relevant board members there for certain discussions, we tabled budget and pull requirement talks until next meeting.
-- Discussed Jared's internship and corporate culture at Red Hat.
-- Discussed some altnerate solutions if UNH hosting doesn't work out (RamNode)
-- Discussed website improvements
+	- Karl thinks we should consider making a game in Phaser
 
 ### Agenda Next Meeting 
 
